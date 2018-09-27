@@ -1037,6 +1037,90 @@ header{
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);	
 }
+.ico-mont{
+    content: '';
+    background: url(img/sprite-tourisme.png) no-repeat;
+    background-position: -480px -250px;
+    width: 82px;
+    height: 80px;
+    position: absolute;	
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.ico-break{
+    content: '';
+    background: url(img/sprite-tourisme.png) no-repeat;
+    background-position: -570px -250px;
+    width: 82px;
+    height: 80px;
+    position: absolute;	
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.ico-spa{
+    content: '';
+    background: url(img/sprite-tourisme.png) no-repeat;
+    background-position: -661px -250px;
+    width: 82px;
+    height: 80px;
+    position: absolute;	
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.ico-crois{
+    content: '';
+    background: url(img/sprite-tourisme.png) no-repeat;
+    background-position: -480px -350px;
+    width: 82px;
+    height: 80px;
+    position: absolute;	
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.ico-couple{
+    content: '';
+    background: url(img/sprite-tourisme.png) no-repeat;
+    background-position: -570px -350px;
+    width: 82px;
+    height: 80px;
+    position: absolute;	
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.ico-equipem{
+    content: '';
+    background: url(img/sprite-tourisme.png) no-repeat;
+    background-position: -661px -350px;
+    width: 82px;
+    height: 80px;
+    position: absolute;	
+    top: 50px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
 .icon{
 	position: relative;
 }
@@ -2907,7 +2991,7 @@ body #zone4 .block.block-page.list-articles.actus .gla-item .gla-item-title:befo
 
 .block.block-small.quicklinks.thematiques .ql-item {
 	display: inline-block;
-    width: calc(33.3333% - 23px);
+    width: calc(20% - 25px);
     margin: 10px;
     min-height: 220px;
     position: relative;
@@ -2971,9 +3055,6 @@ body #zone4 .block.block-page.list-articles.actus .gla-item .gla-item-title:befo
 
 }
 
-.block.block-small.quicklinks.thematiques .ql-item:first-child {
-	background: transparent url('img/experience1.jpg');
-}
 
 .block.block-small.quicklinks.thematiques .ql-item:after {
 	background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
@@ -2996,10 +3077,13 @@ body #zone4 .block.block-page.list-articles.actus .gla-item .gla-item-title:befo
 	background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
 }
 
+.block.block-small.quicklinks.thematiques .ql-item:first-child {
+	background: transparent url('img/experience1.jpg');
+}
+
 .block.block-small.quicklinks.thematiques .ql-item:nth-child(2) {
 	background: transparent url('img/experience2.jpg');
 }
-
 
 .block.block-small.quicklinks.thematiques .ql-item:nth-child(3)  {
 	background: transparent url('img/experience3.jpg');
@@ -3010,10 +3094,27 @@ body #zone4 .block.block-page.list-articles.actus .gla-item .gla-item-title:befo
 }
 
 .block.block-small.quicklinks.thematiques .ql-item:nth-child(5)  {
+	background: transparent url('img/experience5.jpg');
+}
+
+.block.block-small.quicklinks.thematiques .ql-item:nth-child(6)  {
 	background: transparent url('img/experience6.jpg');
 }
+
+.block.block-small.quicklinks.thematiques .ql-item:nth-child(7)  {
+	background: transparent url('img/experience7.jpg');
+}
+
+.block.block-small.quicklinks.thematiques .ql-item:nth-child(8)  {
+	background: transparent url('img/experience8.jpg');
+}
+
+.block.block-small.quicklinks.thematiques .ql-item:nth-child(9)  {
+	background: transparent url('img/experience9.jpg');
+}
+
 .block.block-small.quicklinks.thematiques .ql-item:last-child {
-	background: transparent url('img/experience5.jpg');
+	background: transparent url('img/experience10.jpg');
 }
 
 
@@ -7880,4 +7981,3 @@ div.col2.fb > iframe {
             top: 30px;
             color: #000000;
         }
-
