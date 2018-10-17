@@ -7978,9 +7978,7 @@ div.col2.fb > iframe {
         }
 
         body.article_list #zone2 div.list-articles div.intro p {
-            top: 30px;
-            color: #000000;
+            top: 30px !important;
+            color: #000000 !important;;
         }
-	.body-corpo.article_list.espace-pro .ezxmltext-field {
-	    display: none;
-	}
+
