@@ -7981,3 +7981,6 @@ div.col2.fb > iframe {
             top: 30px;
             color: #000000;
         }
+	.body-corpo.article_list.espace-pro .ezxmltext-field {
+	    display: none;
+	}
