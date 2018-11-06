@@ -47,3 +47,13 @@ position: absolute;
 p.cl-item-desc {
     width: 640px;
 }
+
+
+/****** COMPTE CLIENT ******/
+
+.site-banner #cxpmClientAccountWidget .logged #widgetFirstnameText {
+    display: inline-block !important;
+}
+header #cxpmClientAccountWidget .widget-text span a{
+	text-transform: initial !important;
+}
