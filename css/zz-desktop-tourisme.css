@@ -6995,10 +6995,9 @@ body.fiche .block.block-page.edito.mod-catal{
 
 /* dweb masquage temporaire des adresse clients */
 
-/* .catal-ed-main-address {
+ div.catal-ed-main-infos p.catal-ed-main-address {
    display: none;
 }
-*/
 
 .catalogue.marque .edito.mod-catal,.catalogue.marque  .catal-produit.mod-catal{
 	min-height: 700px;
