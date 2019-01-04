@@ -677,7 +677,7 @@ header{
 		}
 
 		header #cxpmClientAccountWidget .widget-text:before {
-		    content: 'COMPTE VISITEUR';
+		    content: 'MON COMPTE';
 		    position: absolute;
 		    width: 180px;
 		    left: -160px;
