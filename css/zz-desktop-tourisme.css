@@ -7051,12 +7051,12 @@ ul > li.ql-item.linkid184060, ul > li.ql-item.linkid184064, ul > li.ql-item.link
     display: none;
 }
 
-/* Masquage de la remontée des marques sur les pages villes */
+/* Masquage de la remontée des marques sur les pages villes 
 
 .node253631 p.catal-ex-item-brand, .node254180 div.catal-ex-item-desc, .catal-ex-item-desc {
    display: none;
 }
-
+*/
 /* Hauteur de l'IFRAME des formulaires */
 
 #mobicheckin-form {
