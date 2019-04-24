@@ -32,8 +32,8 @@ body.article_list #zone2 div.list-articles div.intro {
 body.article_list #zone2 div.list-articles div.intro p{
 position: absolute;
 	left: 50%;
-	top: 450px;
-	color: white;
+	top: 450px !important;
+	color: white !important;
 	text-align: center;
 		-webkit-transform: translateX(-50%);
 	-moz-transform: translateX(-50%);
