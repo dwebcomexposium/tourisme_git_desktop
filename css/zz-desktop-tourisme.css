@@ -410,12 +410,16 @@ header{
     left:-50px;
     position: absolute;	
 }
+/** modifié le 10/10/2019
 .site-banner.is-stuck .buy-ticket{
 	background: inherit;
 	margin-top: 11px;
 	height: 92px;
+} **/
+.site-banner.is-stuck .buy-ticket {
+    margin-top: -5px;
+    height: 92px;
 }
-
 .site-banner.is-stuck .header-right ul {
 	margin-top: 0px;
 	padding-left: 0px;
