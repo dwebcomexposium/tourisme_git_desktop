@@ -1788,8 +1788,11 @@ body .vous-etes .main-title-with-link{
 	background: white;
 }
 
-.espace-pro .mn-menu-item{
+/** .espace-pro .mn-menu-item{
 	width: calc(100% * 1 / 4 - 0.01px);
+} **/
+.espace-pro li.mn-menu-item.mn-item-lvl-1 {
+    width: calc(100% * 1/4 - 0.01px);
 }
 #zone1 .offres-stands .gla-item > a:hover .gla-item-content{
 	background: white;
