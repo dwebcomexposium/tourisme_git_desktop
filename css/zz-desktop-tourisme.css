@@ -493,10 +493,15 @@ header{
     top: 0px;
 }
 
+/** Enlever le 10/10/2019
 .espace-pro .is-stuck .mn-menu-line{
 	max-width: inherit;
-}
+} **/
 
+.espace-pro .is-stuck .mn-menu-line {
+	max-width: inherit;
+    width: 100%;
+}
 .espace-pro .is-stuck .mn-item-lvl-1:first-child{
 	display: block;
 }
