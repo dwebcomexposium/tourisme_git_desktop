@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20191023T082825Z
+DESCRIPTION:\n
+DTEND;TZID="Romance Standard Time":20200119T180000
+DTSTAMP:20191022T094938Z
+DTSTART;TZID="Romance Standard Time":20200117T110000
+LAST-MODIFIED:20191023T082825Z
+LOCATION:Grand Palais à Lille 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:SALON TOURISSIMA 2020
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000308DF6BDCE88D501000000000000000
+	010000000E92515DEB78C3A40AC9AE4F523FC6305
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><SPAN 
+	LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"><
+	FONT COLOR="#009EE4" SIZE=5 FACE="montserrat">PRÉPAREZ VOS VACANCES SUR T
+	OURISSIMA LILLE</FONT></SPAN></B></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN
+	><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR
+	="#2B2F2F" SIZE=2 FACE="montserrat">Le Salon du Tourisme et des activités
+	 nature\, </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B>
+	</B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"><FONT COLOR="#
+	2B2F2F" SIZE=2 FACE="montserrat">Tourissima Lille\,</FONT></SPAN></B><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG
+	="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat"> vous accueillera du
+	 </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPA
+	N><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"><FONT COLOR="#2B2F2F" S
+	IZE=2 FACE="montserrat">17 au 19 janvier 2020</FONT></SPAN></B><SPAN LANG=
+	"fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr">
+	<FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat"> ! </FONT></SPAN><SPAN LA
+	NG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B
+	></SPAN><B><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat">
+	Tourissima</FONT></SPAN></B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN>
+	<SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="
+	montserrat"> est le rendez-vous des voyageurs des Hauts de France pour d
+	énicher des </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr">
+	<B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"><FONT COLOR
+	="#2B2F2F" SIZE=2 FACE="montserrat">séjours</FONT></SPAN></B><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><
+	FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat"> et des </FONT></SPAN><SPA
+	N LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B
+	></B></SPAN><B><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserr
+	at">activités</FONT></SPAN></B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></S
+	PAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FA
+	CE="montserrat">  </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG
+	="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"><FONT
+	 COLOR="#2B2F2F" SIZE=2 FACE="montserrat">nature</FONT></SPAN></B><SPAN LA
+	NG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat"> hors du commun. Accuei
+	llant de </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><
+	/B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"><FONT COLOR="#2
+	B2F2F" SIZE=2 FACE="montserrat">multiples destinations</FONT></SPAN></B><S
+	PAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN L
+	ANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat"> en France et à 
+	l’étranger\, le salon présente aussi les </FONT></SPAN><SPAN LANG="fr
+	"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPA
+	N><B><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat">derni
+	ères tendances du tourisme </FONT></SPAN></B><SPAN LANG="fr"></SPAN><SPA
+	N LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#2B
+	2F2F" SIZE=2 FACE="montserrat">et de l’</FONT></SPAN><SPAN LANG="fr"><B>
+	</B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B>
+	<SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat">outdoor</FO
+	NT></SPAN></B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="montserrat"> 
+	pour des idées d’évasion et de loisirs à réaliser en </FONT></SPAN>
+	<SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr
+	"><B></B></SPAN><B><SPAN LANG="fr"><FONT COLOR="#2B2F2F" SIZE=2 FACE="mont
+	serrat">famille\, entre amis ou en solo.</FONT></SPAN></B><SPAN LANG="fr">
+	</SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPA
+	N></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
