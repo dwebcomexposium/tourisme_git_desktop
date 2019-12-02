@@ -57,3 +57,7 @@ p.cl-item-desc {
 header #cxpmClientAccountWidget .widget-text span a{
 	text-transform: initial !important;
 }
+
+.cache-form .header-right ul li.buy-ticket {
+    display: none;
+}
