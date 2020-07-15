@@ -61,3 +61,7 @@ header #cxpmClientAccountWidget .widget-text span a{
 .cache-form .header-right ul li.buy-ticket {
     display: none;
 }
+
+.front #zone4>div {
+    flex: none;
+}
