@@ -75,3 +75,11 @@ header #cxpmClientAccountWidget .widget-text span a{
     border-right: 1px solid #e8e8e8;
     width: calc(100% * 1/3 - 0.01px);
 }
+.node1398033 .block.block-page.edito .block-title {
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #000;
+    border: 0;
+    margin-bottom: 30px;
+}
