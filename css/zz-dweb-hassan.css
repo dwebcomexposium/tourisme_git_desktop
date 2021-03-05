@@ -102,3 +102,6 @@ header #cxpmClientAccountWidget .widget-text span a{
     margin-top: 28em;
     margin-bottom: -36em;
 }
+.evd-infos-type {
+    display: none;
+}
