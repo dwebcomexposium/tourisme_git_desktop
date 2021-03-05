@@ -83,3 +83,19 @@ header #cxpmClientAccountWidget .widget-text span a{
     border: 0;
     margin-bottom: 30px;
 }
+
+/* Evts */
+.body-corpo.page-events .mod-catal .esf-search-line .form-select {
+    width: 48%!important;
+}
+
+.body-corpo.page-events.event .edito.mod-catal {
+    padding-top: 259px;
+}
+.body-corpo.page-events.event #zone2 .event-view-full div#activite {
+    margin-top: 547px;
+}
+.body-corpo.page-events.event .site-wrapper .block:not(:first-child) {
+    margin-top: 28em;
+    margin-bottom: -36em;
+}
