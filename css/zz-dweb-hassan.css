@@ -105,3 +105,6 @@ header #cxpmClientAccountWidget .widget-text span a{
 .evd-infos-type {
     display: none;
 }
+#zone2 .catal-ed-main-desc h2:nth-of-type(2), p.catal-ed-main-address {
+    display: none;
+}
