@@ -108,3 +108,8 @@ header #cxpmClientAccountWidget .widget-text span a{
 #zone2 .catal-ed-main-desc h2:nth-of-type(2), p.catal-ed-main-address {
     display: none;
 }
+
+
+.semaine .site-banner.is-stuck #cxpmClientAccountWidget {
+    position: fixed;
+}
