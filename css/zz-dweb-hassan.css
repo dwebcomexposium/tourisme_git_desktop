@@ -113,3 +113,6 @@ header #cxpmClientAccountWidget .widget-text span a{
 .semaine .site-banner.is-stuck #cxpmClientAccountWidget {
     position: fixed;
 }
+body.article .article-content h3 {
+    clear: both;
+}
