@@ -116,3 +116,7 @@ header #cxpmClientAccountWidget .widget-text span a{
 body.article .article-content h3 {
     clear: both;
 }
+
+button.btn.btn-small.slider-play-btn {
+    display: none !important;
+}
