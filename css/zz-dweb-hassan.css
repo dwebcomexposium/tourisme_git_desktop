@@ -120,3 +120,7 @@ body.article .article-content h3 {
 button.btn.btn-small.slider-play-btn {
     display: none !important;
 }
+
+footer .inside .comexposium, footer .inside .copyright {
+    width: 51%;
+}
