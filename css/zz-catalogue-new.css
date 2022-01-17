@@ -10,6 +10,4 @@
 #catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {display: none !important;}
 
 /*Header catalogue Tourisme*/
-div#catalog-v2 {
-    margin-top: 200px;
-}
+#catalog-v2 {margin-top: 200px;}
