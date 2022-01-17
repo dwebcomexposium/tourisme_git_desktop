@@ -8,3 +8,12 @@
 /*cacher encart présent sur */
 
 #catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {display: none !important;}
+
+/*Header catalogue Tourisme*/
+.catalogue {
+    background: url(img/bg-exposant-header.png) center center no-repeat;
+    background-size: auto;
+    background-size: cover;
+    min-height: 720px;
+    position: relative;
+}
