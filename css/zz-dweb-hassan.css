@@ -134,3 +134,7 @@ footer .inside .comexposium, footer .inside .copyright {
 }
 
 /* ggg */
+
+.error404 div#zone1 {
+    display: none;
+}
