@@ -141,6 +141,6 @@ footer .inside .comexposium, footer .inside .copyright {
 .block.block-page.faq {
     position: relative;
     top: 280px;
-    z-index: 10000;
+    z-index: 1000;
     background-color: white;
 }
