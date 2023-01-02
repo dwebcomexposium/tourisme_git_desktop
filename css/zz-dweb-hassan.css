@@ -138,3 +138,9 @@ footer .inside .comexposium, footer .inside .copyright {
 .error404 div#zone1 {
     display: none;
 }
+.block.block-page.faq {
+    position: relative;
+    top: 280px;
+    z-index: 10000;
+    background-color: white;
+}
