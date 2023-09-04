@@ -144,3 +144,8 @@ footer .inside .comexposium, footer .inside .copyright {
     z-index: 1000;
     background-color: white;
 }
+.entre-salon ul li img {
+    display: block;
+    width: 210px;
+    margin: 0 auto;
+}
